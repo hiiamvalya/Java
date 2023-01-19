@@ -101,19 +101,19 @@ public class Main {
 ### Формат оформления баг-репорта
 Наша цель — получить такой баг-репорт:
 
-https://user-images.githubusercontent.com/53707586/201871671-9b97a6f4-60dd-4b03-a949-32960d3e01a5.png)
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/53707586/161832746-1c6c42d0-4d64-4d1d-9b05-47b80a3f4a25.png">
 
 Это можно сделать, написав следующее:
 
-https://user-images.githubusercontent.com/53707586/145558346-22631529-597a-4332-951f-ec1cf550c701.png
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/53707586/145558346-22631529-597a-4332-951f-ec1cf550c701.png">
 
 Комментарии к формату:
 * И в .md-файлах, и внутри описания баг-репортов используется [формат Markdown](https://www.markdownguide.org/basic-syntax/).
 * Исходный код Issue специально вставлен картинкой, чтобы вы вчитывались и перепечатывали, а не копировали.
 * Чтобы красиво сослаться на нужное место в коде на GitHub, откройте этот файл на GitHub, нажмите на номер или номера соответствующей строки, удерживая `Shift`, и рядом слева нажмите на троеточие, в выпавшем меню нажмите `Copy permalink`. В буфер обмена скопируется прямая ссылка на эту строку этого коммита. Теперь вы её можете просто вставить в текст Issue как в шаблоне:
 
-https://user-images.githubusercontent.com/53707586/145559373-0173b0af-f0dc-455e-ac0a-f7b6da85ae8a.png
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/53707586/145559373-0173b0af-f0dc-455e-ac0a-f7b6da85ae8a.png">
 
 * Для загрузки изображений вы можете воспользоваться кнопкой, находящейся сразу под полем редактирования текста. Также возможна автозагрузка скриншотов прямо из буфера обмена через `Ctrl+V` с автовставкой в место нахождения курсора:
 
-https://user-images.githubusercontent.com/53707586/145559790-cf4b1254-ceb8-4931-92dd-031575450583.png
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/53707586/145559790-cf4b1254-ceb8-4931-92dd-031575450583.png">
